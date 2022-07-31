@@ -4,7 +4,7 @@ Just another way to abuse SeImpersonate privilege.
 
 This PoC is based on this [blog](https://www.crisprx.top/archives/561) by [@crisprss](https://github.com/crisprss).
 
-In this blog @crisprss showed some interesting method to abuse SeImpersonate privilege using AzureAttestService which comes with recent verions of SQL server, PoC for that can be found here https://github.com/crisprss/magicAzureAttestService.
+In this blog @crisprss showed some interesting method to abuse SeImpersonate privilege using AzureAttestService which comes with recent versions of SQL server, PoC for that can be found here https://github.com/crisprss/magicAzureAttestService.
 
 In that blog he also shows another possible way to abuse SeImpersonate privilege using DiagTrack service but author failed to weaponize it, this is taken from that blog (Translated from Chinese so maybe not 100% accurate) :
 
